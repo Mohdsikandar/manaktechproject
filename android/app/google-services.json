@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "788285932646",
+    "project_id": "menetecktask",
+    "storage_bucket": "menetecktask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788285932646:android:c44d3c8fe272a46f7e99a7",
+        "android_client_info": {
+          "package_name": "com.example.manektechtask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "788285932646-c80ql1a0pe9u4an7h6lne6i7ijdvcj8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjJ6isFCkfHxYb1JXtLplePwUfINZvZN4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "788285932646-c80ql1a0pe9u4an7h6lne6i7ijdvcj8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
